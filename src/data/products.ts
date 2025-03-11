@@ -1,0 +1,72 @@
+export const products = [
+  {
+    id: 1,
+    name: 'Premium Yoga Mat',
+    description: 'High-quality, non-slip yoga mat perfect for all types of yoga practices.',
+    price: 49.99,
+    image: 'https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 2,
+    name: 'Adjustable Dumbbells',
+    description: 'Space-saving adjustable dumbbells perfect for home workouts.',
+    price: 299.99,
+    image: 'https://images.unsplash.com/photo-1638536532686-d610adfc8e5c?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 3,
+    name: 'Smart Water Bottle',
+    description: 'Track your hydration with this smart water bottle.',
+    price: 39.99,
+    image: 'https://images.unsplash.com/photo-1523362628745-0c100150b504?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 4,
+    name: 'Resistance Bands Set',
+    description: 'Complete set of resistance bands for versatile workouts.',
+    price: 29.99,
+    image: 'https://images.unsplash.com/photo-1598632640487-6ea4a5e8d6c0?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 5,
+    name: 'Whey Protein Isolate',
+    description: 'Premium whey protein isolate for muscle recovery and growth.',
+    price: 59.99,
+    image: 'https://images.unsplash.com/photo-1579722821273-0f6c7d44362f?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 6,
+    name: 'Pre-Workout Energy',
+    description: 'Advanced pre-workout formula for maximum performance.',
+    price: 44.99,
+    image: 'https://images.unsplash.com/photo-1594882645126-14020914d58d?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 7,
+    name: 'BCAA Supplement',
+    description: 'Essential amino acids for muscle recovery and endurance.',
+    price: 34.99,
+    image: 'https://images.unsplash.com/photo-1579722820308-d74e571900a9?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 8,
+    name: 'Mass Gainer',
+    description: 'High-calorie protein blend for muscle mass gain.',
+    price: 54.99,
+    image: 'https://images.unsplash.com/photo-1579722819151-2e57d0b17639?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 9,
+    name: 'Creatine Monohydrate',
+    description: 'Pure creatine for strength and power enhancement.',
+    price: 29.99,
+    image: 'https://images.unsplash.com/photo-1579722820841-94b50c8b2e4c?auto=format&fit=crop&q=80&w=800',
+  },
+  {
+    id: 10,
+    name: 'Protein Bars (12 Pack)',
+    description: 'Convenient protein-rich snacks for on-the-go nutrition.',
+    price: 24.99,
+    image: 'https://images.unsplash.com/photo-1579722819412-9b0b7a3b2c06?auto=format&fit=crop&q=80&w=800',
+  }
+];
