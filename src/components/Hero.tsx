@@ -35,7 +35,7 @@ export function Hero() {
               <span className="text-teal-600 dark:text-teal-400">Like Never Before</span>
             </motion.h1>
             <p className="text-lg text-gray-600 dark:text-gray-300 mb-8 text-left">
-              Achieve your fitness goals with our comprehensive tracking tools, personalized workouts,
+              Achieve your fitness goals with our professional tracking tools, personalized workouts,
               and nutrition guidance.
             </p>
           </div>
